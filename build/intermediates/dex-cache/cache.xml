@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/libs/internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.0_c222721ac0ab69b513f53fb4507328b538fd51fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Downloads/Android Studio.app/Contents/gradle/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha4/constraint-layout-solver-1.0.0-alpha4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="cdeb2aecf7557aa5f8d2ac0e37a0e7760f48c513">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha4_706e813dc544813bd9ad07623c010579fb763112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support/design/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="8620c018c108eed501bbdb85324b79136373ea44">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.1.0_d101c921acb6647780b9033a51da2da52cc480ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.1.0_8108e218b81d3b909fdeba99c90c296a0a8a147f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3678f278a25e7f119fe45ea000fa172aed8d057b">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8c94e175fca4471e96f983f9c0da62abaedad043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.1.0_18f4b5a49ccb8fb573a4f16a243539bd05ded335/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3f67fa4296f84a4067f293aa5f37951fb9e48abc">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ade601812d9ee8241a4cf2b52cc5dcca1f35af88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha4/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="2a25fdd20d5f75558b6011724bbfbb7d97c7f5b7">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha4_687e8b4877569de4e1f81daefb03ffce3987106d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.1.0_a65c874cdd83ae34fdf8b4ad5f0eea22f59b458d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.1.0_1f1c0594b5e94ff2ee2b5bd76055a432f27ba1d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="4157816e81f0820983957687e9a6f4c1cea0f1e5">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.1.0_755289c950591a4a5208a6ee02207db9108b65b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/cymedix/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.0/support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="/Users/cymedix/Dropbox/AndroidProject/BottomSheetTest/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.0_6f03a576ef77a8a9639696e7445ffc79e6cb3b7b/classes.dex" />
+    </item>
+
+</items>
